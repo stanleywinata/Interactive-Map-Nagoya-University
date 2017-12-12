@@ -2,3 +2,4 @@
 # This Program uses C as the backend while HTML for the front end
 # The program will be operated through terminal
 # Please make the makefile
+#Check main_menu.c to see operation codes
